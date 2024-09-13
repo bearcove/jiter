@@ -1,6 +1,6 @@
 [package]
-name = "jiter"
-description = "Fast Iterable JSON parser"
+name = "ftl-jiter"
+description = "Fast Iterable JSON parser (preview build)"
 readme = "../../README.md"
 version = { workspace = true }
 edition = { workspace = true }
